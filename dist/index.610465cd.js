@@ -1,0 +1,2 @@
+const scrollSlider=document.querySelector(".next-wrapper"),slider=document.querySelector(".item-slider");slider.addEventListener("wheel",(function(e){slider.focus(),e.deltaY>0?slider.scrollLeft+=250:slider.scrollLeft-=250,e.preventDefault()}),{passive:!1}),scrollSlider.addEventListener("click",(e=>{slider.focus(),slider.scrollLeft+=250,e.preventDefault()}));
+//# sourceMappingURL=index.610465cd.js.map
