@@ -1,0 +1,17 @@
+{
+  "name": "digifist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "Hüseyin ALTIKULAÇ",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+
+}

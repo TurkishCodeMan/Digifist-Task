@@ -1,0 +1,17 @@
+@font-face {
+  font-family: ITC Avant Garde Gothic Pro;
+  src: url("../../public/ITC\ Avant\ Garde\ Gothic\ LT\ Bold.ttf");
+}
+
+@font-face {
+  font-family: Avenir-Book;
+  src: url("../../public/AvenirLTStd-Book.otf");
+}
+@font-face {
+  font-family: Avenir-Black;
+  src: url("../../public/AvenirLTStd-Black.otf");
+}
+@font-face {
+  font-family: Avenir-Regular;
+  src: url("../../public/Avenir\ Regular.ttf");
+}
